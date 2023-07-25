@@ -151,6 +151,7 @@ int print_int(va_list types, char buffer[],
  * @precision: Precision specification
  * @size: Size specifier
  * Return: Numbers of char printed.
+ * Comments added Partner edit
  */
 int print_binary(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
