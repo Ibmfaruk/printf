@@ -49,6 +49,7 @@ get_precision.c
  * @list: list of arguments.
  *
  * Return: Precision.
+ * Comments added Partner edit
  */
 int get_precision(const char *format, int *i, va_list list)
 {
